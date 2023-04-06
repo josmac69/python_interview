@@ -1,5 +1,1 @@
-* lists
-* tuples
-* sets
-* dictionaries
-*
+# Python data structures

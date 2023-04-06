@@ -1,3 +1,6 @@
+# Drawbacks of using Python
+
+
 Like any other programming language, Python has some drawbacks. Some of the disadvantages of using Python are:
 
 1. Poor memory efficiency compared to languages like C and C++. [2]
@@ -17,8 +20,6 @@ It is important to note that these drawbacks may not be relevant in all use case
 Written by Chatsonic
 
 ---
-
-
 
 1. Slower Execution: Python is an interpreted language, which means that it is slower than compiled languages like C++ or Java. This can be an issue for applications that require high performance or real-time processing.
 2. Weak in Mobile Computing: Python is not the best choice for developing mobile applications, as it has limited support for mobile platforms and devices.
